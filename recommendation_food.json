@@ -158,51 +158,51 @@
   "options" : {
     "normal" : {
       "breakfast" : [
-        "egg",
+        "peach",
         "milk"
       ],
       "lunch" : [
         "milk",
-        "chicken",
-        "egg"
+        "peach",
+        "peach"
       ],
       "dinner" : [
         "milk",
-        "sausage",
-        "bacon"
+        "peach",
+        "peach"
       ]
     },
 
     "lack_vit_d" : {
       "breakfast" : [
-        "sausage",
-        "egg",
+        "peach",
+        "peach",
         "milk"
       ],
       "lunch" : [
-        "pork",
-        "chicken",
+        "peach",
+        "peach",
         "milk"
       ],
       "dinner" : [
-        "sausage",
+        "peach",
         "milk",
-        "bacon"
+        "peach"
       ]
     },
 
     "overweight" : {
       "breakfast" : [
         "milk",
-        "egg"
+        "rice"
       ],
       "lunch" : [
         "milk",
-        "sausage"
+        "rice"
       ],
       "dinner" : [
-        "pork",
-        "egg",
+        "peach",
+        "rice",
         "milk"
       ]
     },
@@ -210,17 +210,17 @@
     "short" : {
       "breakfast" : [
         "milk",
-        "egg",
-        "pork"
+        "rice",
+        "peach"
       ],
       "lunch" : [
         "milk",
-        "sausage",
-        "pork"
+        "rice",
+        "peach"
       ],
       "dinner" : [
-        "pork",
-        "chicken"
+        "rice",
+        "peach"
       ]
     }
   }
