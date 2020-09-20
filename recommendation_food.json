@@ -47,7 +47,7 @@
       "Carbohydrates":"12.4",
       "image":"https://img.icons8.com/cotton/2x/lettuce-1--v2.png"
     },
-    "Strawberry": {
+    "strawberry": {
       "id":"strawberry",
       "name":"strawberry",
       "calories" : "10.87",
