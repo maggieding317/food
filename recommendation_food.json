@@ -163,9 +163,107 @@
       "fat": "6.4",
       "Carbohydrates":"6.8",
       "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "鸡胸肉": {
+      "id":"鸡胸肉",
+      "name":"鸡胸肉",
+      "value" : "141.6",
+      "protein": "29.52",
+      "fat": "2.28",
+      "Carbohydrates":"0.72",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "瘦猪肉": {
+      "id":"瘦猪肉",
+      "name":"瘦猪肉",
+      "value" : "71.5",
+      "protein": "10.15",
+      "fat": "3.1",
+      "Carbohydrates":"0.75",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "瘦牛肉": {
+      "id":"瘦牛肉",
+      "name":"瘦牛肉",
+      "value" : "53",
+      "protein": "10.1",
+      "fat": "1.15",
+      "Carbohydrates":"0.6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "猪肉": {
+      "id":"猪肉",
+      "name":"猪肉",
+      "value" : "197.5",
+      "protein": "6.6",
+      "fat": "18.5",
+      "Carbohydrates":"1.2",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "猪里脊肉": {
+      "id":"猪里脊肉",
+      "name":"猪里脊肉",
+      "value" : "77.5",
+      "protein": "10.1",
+      "fat": "3.95",
+      "Carbohydrates":"0.35",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "玉米": {
+      "id":"玉米",
+      "name":"玉米",
+      "value" : "147.84",
+      "protein": "8",
+      "fat": "2.4",
+      "Carbohydrates":"45.6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "上海青": {
+      "id":"上海青",
+      "name":"上海青",
+      "value" : "9",
+      "protein": "0.85",
+      "fat": "0.1",
+      "Carbohydrates":"1.6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "油麦菜": {
+      "id":"油麦菜",
+      "name":"油麦菜",
+      "value" : "0.55",
+      "protein": "0.2",
+      "fat": "0.1",
+      "Carbohydrates":"1.05",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "西红柿": {
+      "id":"西红柿",
+      "name":"西红柿",
+      "value" : "25",
+      "protein": "1.53",
+      "fat": "0.34",
+      "Carbohydrates":"5.61",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "黄瓜": {
+      "id":"黄瓜",
+      "name":"黄瓜",
+      "value" : "26.4",
+      "protein": "1.32",
+      "fat": "0.33",
+      "Carbohydrates":"0.825",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "西瓜": {
+      "id":"西瓜",
+      "name":"西瓜",
+      "value" : "521",
+      "protein": "15",
+      "fat": "9",
+      "Carbohydrates":"6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
     }
-
-  },
+    },
 
   "options" : {
     "normal" : {
