@@ -1,0 +1,336 @@
+{
+  "food" : {
+    "rice" : {
+      "id" : "rice",
+      "name" : "rice",
+      "calories" : "209",
+      "protein": "4.68",
+      "fat": "0.54",
+      "carbohydrates":"46.08",
+      "image":"https://cdn3.iconfinder.com/data/icons/restaurant-2-1/2134/roast_beef_steak_grilled_meat_food-512.png"
+    },
+
+    "wheat":{
+      "id":"wheat",
+      "name":"wheat",
+      "calories" : "338",
+      "protein": "11.9",
+      "fat": "1.3",
+      "carbohydrates":"75.2",
+      "image":"https://cdn3.iconfinder.com/data/icons/restaurant-2-1/2134/roast_beef_steak_grilled_meat_food-512.png"
+    },
+    "noodle":{
+      "id":"noodle",
+      "name":"noodle",
+      "calories" : "374.5",
+      "protein": "13.65",
+      "fat": "1.4",
+      "carbohydrates":"79.87",
+      "image":"https://image.flaticon.com/icons/png/512/123/123287.png"
+    },
+    "red bean":{
+      "id":"red bean",
+      "name":"red bean",
+      "calories" : "64.8",
+      "protein": "4.04",
+      "fat": ".12",
+      "carbohydrates":"12.68",
+      "image":"https://img.icons8.com/cotton/2x/lettuce-1--v2.png"
+    },
+    "green bean": {
+      "id":"green bean",
+      "name":"green bean",
+      "calories" : "65.8",
+      "protein": "4.32",
+      "fat": "0.16",
+      "carbohydrates":"12.4",
+      "image":"https://img.icons8.com/cotton/2x/lettuce-1--v2.png"
+    },
+    "strawberry": {
+      "id":"strawberry",
+      "name":"strawberry",
+      "calories" : "10.87",
+      "protein": "0.35",
+      "fat": "0.07",
+      "carbohydrates":"2.5",
+      "image":"https://img.icons8.com/cotton/2x/lettuce-1--v2.png"
+    },
+    "peach": {
+      "id":"peach",
+      "name":"peach",
+      "calories" : "81.27",
+      "protein": "1.35",
+      "fat": "0.225",
+      "carbohydrates":"22.73",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "apple": {
+      "id":"apple",
+      "name":"apple",
+      "calories" : "84.59",
+      "protein": "0.84",
+      "fat": "0.42",
+      "carbohydrates":"28.77",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "pear": {
+      "id":"pear",
+      "name":"pear",
+      "calories" : "104.55",
+      "protein": "0.75",
+      "fat": "0.25",
+      "carbohydrates":"32.75",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "kiwi": {
+      "id":"kiwi",
+      "name":"kiwi",
+      "calories" : "35.44",
+      "protein": "0.56",
+      "fat": "0.42",
+      "carbohydrates":"10.15",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "orange": {
+      "id":"orange",
+      "name":"orange",
+      "calories" : "68.64",
+      "protein": "1.6",
+      "fat": "0.2",
+      "carbohydrates":"20.4",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "grape": {
+      "id":"grape",
+      "name":"grape",
+      "calories" : "3.87",
+      "protein": "0.04",
+      "fat": "0.03",
+      "carbohydrates":"1.03",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "pomelo": {
+      "id":"pomelo",
+      "name":"pomelo",
+      "calories" : "347.76",
+      "protein": "9.6",
+      "fat": "2.4",
+      "carbohydrates":"114",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "小米粥": {
+      "id":"小米粥",
+      "name":"小米粥",
+      "calories" : "92",
+      "protein": "2.8",
+      "fat": "1.4",
+      "carbohydrates":"16.8",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "白粥": {
+      "id":"白粥",
+      "name":"白粥",
+      "calories" : "92",
+      "protein": "2.75",
+      "fat": "0.75",
+      "carbohydrates":"24.75",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "山药": {
+      "id":"山药",
+      "name":"山药",
+      "calories" : "189.24",
+      "protein": "7.6",
+      "fat": "0.8",
+      "carbohydrates":"49.6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "黄豆": {
+      "id":"黄豆",
+      "name":"黄豆",
+      "calories" : "78",
+      "protein": "7",
+      "fat": "3.2",
+      "carbohydrates":"6.84",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "milk": {
+      "id":"milk",
+      "name":"milk",
+      "calories" : "108",
+      "protein": "6",
+      "fat": "6.4",
+      "carbohydrates":"6.8",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "鸡胸肉": {
+      "id":"鸡胸肉",
+      "name":"鸡胸肉",
+      "calories" : "141.6",
+      "protein": "29.52",
+      "fat": "2.28",
+      "carbohydrates":"0.72",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "瘦猪肉": {
+      "id":"瘦猪肉",
+      "name":"瘦猪肉",
+      "calories" : "71.5",
+      "protein": "10.15",
+      "fat": "3.1",
+      "carbohydrates":"0.75",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "瘦牛肉": {
+      "id":"瘦牛肉",
+      "name":"瘦牛肉",
+      "calories" : "53",
+      "protein": "10.1",
+      "fat": "1.15",
+      "carbohydrates":"0.6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "猪肉": {
+      "id":"猪肉",
+      "name":"猪肉",
+      "calories" : "197.5",
+      "protein": "6.6",
+      "fat": "18.5",
+      "carbohydrates":"1.2",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "猪里脊肉": {
+      "id":"猪里脊肉",
+      "name":"猪里脊肉",
+      "calories" : "77.5",
+      "protein": "10.1",
+      "fat": "3.95",
+      "carbohydrates":"0.35",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "玉米": {
+      "id":"玉米",
+      "name":"玉米",
+      "calories" : "147.84",
+      "protein": "8",
+      "fat": "2.4",
+      "carbohydrates":"45.6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "上海青": {
+      "id":"上海青",
+      "name":"上海青",
+      "calories" : "9",
+      "protein": "0.85",
+      "fat": "0.1",
+      "carbohydrates":"1.6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "油麦菜": {
+      "id":"油麦菜",
+      "name":"油麦菜",
+      "calories" : "0.55",
+      "protein": "0.2",
+      "fat": "0.1",
+      "carbohydrates":"1.05",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "西红柿": {
+      "id":"西红柿",
+      "name":"西红柿",
+      "calories" : "25",
+      "protein": "1.53",
+      "fat": "0.34",
+      "carbohydrates":"5.61",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "黄瓜": {
+      "id":"黄瓜",
+      "name":"黄瓜",
+      "calories" : "26.4",
+      "protein": "1.32",
+      "fat": "0.33",
+      "carbohydrates":"0.825",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    },
+    "西瓜": {
+      "id":"西瓜",
+      "name":"西瓜",
+      "calories" : "521",
+      "protein": "15",
+      "fat": "9",
+      "carbohydrates":"6",
+      "image" : "https://icons-for-free.com/iconfiles/png/512/egg+egg+yolk+eggs+hard+boiled+egg+yolk+icon-1320168013373808361.png"
+    }
+  },
+
+  "options" : {
+    "normal" : {
+      "breakfast" : [
+        "peach",
+        "milk"
+      ],
+      "lunch" : [
+        "milk",
+        "peach",
+        "peach"
+      ],
+      "dinner" : [
+        "milk",
+        "peach",
+        "peach"
+      ]
+    },
+
+    "lack_vit_d" : {
+      "breakfast" : [
+        "peach",
+        "peach",
+        "milk"
+      ],
+      "lunch" : [
+        "peach",
+        "peach",
+        "milk"
+      ],
+      "dinner" : [
+        "peach",
+        "milk",
+        "peach"
+      ]
+    },
+
+    "overweight" : {
+      "breakfast" : [
+        "milk",
+        "rice"
+      ],
+      "lunch" : [
+        "milk",
+        "rice"
+      ],
+      "dinner" : [
+        "peach",
+        "rice",
+        "milk"
+      ]
+    },
+
+    "short" : {
+      "breakfast" : [
+        "milk",
+        "rice",
+        "peach"
+      ],
+      "lunch" : [
+        "milk",
+        "rice",
+        "peach"
+      ],
+      "dinner" : [
+        "rice",
+        "peach"
+      ]
+    }
+  }
+}
