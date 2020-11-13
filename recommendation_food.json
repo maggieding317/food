@@ -8,6 +8,7 @@
       "protein": "4.68",
       "fat": "0.54",
       "carbohydrates":"46.08",
+      "unit": "One bow",
       "image":"https://www.365daysofcrockpot.com/wp-content/uploads/2019/08/Instant-Pot-White-Rice.jpg"
     },
 
@@ -34,7 +35,7 @@
       "name":"red bean",
       "calories" : "64.8",
       "protein": "4.04",
-      "fat": ".12",
+      "fat": "0.12",
       "carbohydrates":"12.68",
       "image":"https://images-na.ssl-images-amazon.com/images/I/61snvtRA5yL._SL1500_.jpg"
     },
