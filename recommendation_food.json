@@ -8,6 +8,7 @@
       "protein": "4.68",
       "fat": "0.54",
       "carbohydrates":"46.08",
+      "unit": "1 bow",
       "image":"https://www.pressurecookrecipes.com/wp-content/uploads/2018/06/instant-pot-rice.jpg"
     },
 
@@ -18,6 +19,7 @@
       "protein": "11.9",
       "fat": "1.3",
       "carbohydrates":"75.2",
+      "unit": "100g",
       "image":"https://cdn.britannica.com/80/157180-050-7B906E02/Heads-wheat-grains.jpg"
     },
     "noodle":{
@@ -27,6 +29,7 @@
       "protein": "13.65",
       "fat": "1.4",
       "carbohydrates":"79.87",
+      "unit": "1 bow",
       "image":"https://www.errenskitchen.com/wp-content/uploads/2018/08/quick-and-easy-chinese-noodle-soup1200.jpg"
     },
     "red bean":{
@@ -36,6 +39,7 @@
       "protein": "4.04",
       "fat": "0.12",
       "carbohydrates":"12.68",
+      "unit": "1 spoon",
       "image":"https://images-na.ssl-images-amazon.com/images/I/61snvtRA5yL._SL1500_.jpg"
     },
     "green bean": {
@@ -45,6 +49,7 @@
       "protein": "4.32",
       "fat": "0.16",
       "carbohydrates":"12.4",
+      "unit": "1 spoon",
       "image":"https://s1.ig.meishij.net/p/20120905/7bbcbbc67ea7370b969d1d659b6c8971.jpg"
     },
     "strawberry": {
@@ -54,6 +59,7 @@
       "protein": "0.35",
       "fat": "0.07",
       "carbohydrates":"2.5",
+      "unit": "1 strawberry",
       "image":"https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg"
     },
     "peach": {
@@ -63,6 +69,7 @@
       "protein": "1.35",
       "fat": "0.225",
       "carbohydrates":"22.73",
+      "unit": "1 peach",
       "image" : "https://image.shutterstock.com/image-photo/peach-isolate-slice-leaf-on-260nw-1550458292.jpg"
     },
     "apple": {
@@ -72,6 +79,7 @@
       "protein": "0.84",
       "fat": "0.42",
       "carbohydrates":"28.77",
+      "unit": "1 apple",
       "image" : "https://www.applesfromny.com/wp-content/uploads/2020/05/Fortune_NYAS-Apples2.png"
     },
     "pear": {
@@ -81,6 +89,7 @@
       "protein": "0.75",
       "fat": "0.25",
       "carbohydrates":"32.75",
+      "unit": "1 pear",
       "image" : "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/pears_commodity-page.png"
     },
     "kiwi": {
@@ -90,6 +99,7 @@
       "protein": "0.56",
       "fat": "0.42",
       "carbohydrates":"10.15",
+      "unit": "1 kiwi",
       "image" : "https://solidstarts.com/wp-content/uploads/Kiwi_edited-scaled.jpg"
     },
     "orange": {
@@ -99,6 +109,7 @@
       "protein": "1.6",
       "fat": "0.2",
       "carbohydrates":"20.4",
+      "unit": "1 orange",
       "image" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
     },
     "grape": {
@@ -108,6 +119,7 @@
       "protein": "0.04",
       "fat": "0.03",
       "carbohydrates":"1.03",
+      "unit": "1 grape",
       "image" : "https://dam.farmjournal.com/m/469f73418ba781e4/webimage-grapes-red-web.png"
     },
     "pomelo": {
@@ -117,6 +129,7 @@
       "protein": "9.6",
       "fat": "2.4",
       "carbohydrates":"114",
+      "unit": "1 pomelo",
       "image" : "https://noshingwiththenolands.com/wp-content/uploads/2018/06/pomelo5-Custom.jpg"
     },
 
@@ -127,6 +140,7 @@
       "protein": "6",
       "fat": "6.4",
       "carbohydrates":"6.8",
+      "unit": "1 cup",
       "image" : "https://www.greenqueen.com.hk/wp-content/uploads/2020/01/turtletree-labs.jpg"
     },
     "chicken breast": {
@@ -136,6 +150,7 @@
       "protein": "29.52",
       "fat": "2.28",
       "carbohydrates":"0.72",
+      "unit": "1 chicken breast",
       "image" : "https://www.foodiecrush.com/wp-content/uploads/2018/08/Instant-Pot-Chicken-Breasts-foodiecrush.com-006A-683x1024.jpg"
     },
     "Lean pork": {
@@ -145,6 +160,7 @@
       "protein": "10.15",
       "fat": "3.1",
       "carbohydrates":"0.75",
+      "unit": "1 piece（50g）",
       "image" : "https://cutpcdnwimages.azureedge.net/images/products/95000/096138-600x600-A.jpg"
     },
     "Lean beef": {
@@ -154,6 +170,7 @@
       "protein": "10.1",
       "fat": "1.15",
       "carbohydrates":"0.6",
+      "unit": "1 piece (50g)",
       "image" : "https://4.bp.blogspot.com/-wQ6rn7OhrPc/Vl7tiQcqQyI/AAAAAAAAASw/4sz_Z0ftriU/s1600/Lean-beef.png"
     },
     "pork": {
@@ -163,6 +180,7 @@
       "protein": "6.6",
       "fat": "18.5",
       "carbohydrates":"1.2",
+      "unit": "1 piece (50g)",
       "image" : "https://upload.wikimedia.org/wikipedia/commons/4/49/Schweinebauch-2.jpg"
     },
     "Pork tenderloin": {
@@ -172,6 +190,7 @@
       "protein": "10.1",
       "fat": "3.95",
       "carbohydrates":"0.35",
+      "unit": "1 piece (50g)",
       "image" : "https://image.shutterstock.com/image-photo/raw-pork-tenderloin-260nw-57809398.jpg"
     },
     "corn": {
@@ -181,6 +200,7 @@
       "protein": "8",
       "fat": "2.4",
       "carbohydrates":"45.6",
+      "unit": "1 corn",
       "image" : "https://www.jessicagavin.com/wp-content/uploads/2019/05/how-to-cook-corn-on-the-cob-8-1200.jpg"
     },
 
@@ -191,6 +211,7 @@
       "protein": "0.2",
       "fat": "0.1",
       "carbohydrates":"1.05",
+      "unit": "1 lettuce",
       "image" : "https://media.newyorker.com/photos/5b6b08d3a676470b4ea9b91f/16:9/w_2465,h_1386,c_limit/Rosner-Lettuce.jpg"
     },
     "tomato": {
@@ -200,6 +221,7 @@
       "protein": "1.53",
       "fat": "0.34",
       "carbohydrates":"5.61",
+      "unit": "1 tomato",
       "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bright_red_tomato_and_cross_section02.jpg/800px-Bright_red_tomato_and_cross_section02.jpg"
     },
     "cucumber": {
@@ -209,6 +231,7 @@
       "protein": "1.32",
       "fat": "0.33",
       "carbohydrates":"0.825",
+      "unit": "1 cucumber",
       "image" : "https://cdn.mos.cms.futurecdn.net/EBEXFvqez44hySrWqNs3CZ.jpg"
     },
     "watermelon": {
@@ -218,6 +241,7 @@
       "protein": "15",
       "fat": "9",
       "carbohydrates":"6",
+      "unit": "1 watermelon",
       "image" : "https://cdn.mos.cms.futurecdn.net/QCRt2ButzyC6FJi8pb6hNi-1200-80.jpg"
     },
     "pizza": {
@@ -227,6 +251,7 @@
       "protein": "33",
       "fat": "13.6",
       "carbohydrates":"54",
+      "unit": "1 piece of pizza",
       "image" : "https://www.biggerbolderbaking.com/wp-content/uploads/2019/07/15-Minute-Pizza-WS-Thumbnail.png"
     },
     "Macaroni and cheese": {
@@ -236,6 +261,7 @@
       "protein": "11.9",
       "fat": "0.1",
       "carbohydrates":"0.4",
+      "unit": "100g",
       "image" : "https://www.inspiredtaste.net/wp-content/uploads/2018/10/Easy-Creamy-Stovetop-Mac-and-Cheese-1200.jpg"
     },
     "Whole wheat bread": {
@@ -245,6 +271,7 @@
       "protein": "4.428",
       "fat": "1.278",
       "carbohydrates":"15.48",
+      "unit": "1 slice of bread",
       "image" : "https://www.simplyrecipes.com/wp-content/uploads/2018/09/whole-wheat-bread-LEAD-02.jpg"
     },
     "bread": {
@@ -254,7 +281,18 @@
       "protein": "29.3",
       "fat": "2.55",
       "carbohydrates":"4.15",
+      "unit": "1 slice of bread",
       "image" : "https://butterwithasideofbread.com/wp-content/uploads/2019/07/White-Bread_10.bsb_.jpg"
+    },
+    "hamburger": {
+      "id":"hamburger",
+      "name":"hamburger",
+      "calories" : "354",
+      "protein": "16.14",
+      "fat": "17",
+      "carbohydrates":"34.224",
+      "unit": "1 hamburger",
+      "image" : "https://media.npr.org/assets/img/2010/12/28/burger_custom-7230dc09f860d54762a73ae36c259837f22e11b8-s800-c85.jpg"
     }
   },
 
