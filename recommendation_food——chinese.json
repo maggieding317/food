@@ -1,20 +1,20 @@
 
 {
   "food" : {
-    "米饭" : {
-      "id" : "米饭",
-      "name" : "米饭",
+    "rice" : {
+      "id" : "rice",
+      "name" : "rice",
       "calories" : "209",
       "protein": "4.68",
       "fat": "0.54",
       "carbohydrates":"46.08",
-      "unit": "1 碗",
+      "unit": "1 bow",
       "image":"https://www.pressurecookrecipes.com/wp-content/uploads/2018/06/instant-pot-rice.jpg"
     },
 
-    "小麦":{
-      "id":"小麦",
-      "name":"小麦",
+    "wheat":{
+      "id":"wheat",
+      "name":"wheat",
       "calories" : "338",
       "protein": "11.9",
       "fat": "1.3",
@@ -22,241 +22,241 @@
       "unit": "100g",
       "image":"https://cdn.britannica.com/80/157180-050-7B906E02/Heads-wheat-grains.jpg"
     },
-    "面条":{
-      "id":"面条",
-      "name":"面条",
+    "noodle":{
+      "id":"noodle",
+      "name":"noodle",
       "calories" : "374.5",
       "protein": "13.65",
       "fat": "1.4",
       "carbohydrates":"79.87",
-      "unit": "1 碗",
+      "unit": "1 bow",
       "image":"https://www.errenskitchen.com/wp-content/uploads/2018/08/quick-and-easy-chinese-noodle-soup1200.jpg"
     },
-    "红豆":{
-      "id":"红豆",
-      "name":"红豆",
+    "red bean":{
+      "id":"red bean",
+      "name":"red bean",
       "calories" : "64.8",
       "protein": "4.04",
       "fat": "0.12",
       "carbohydrates":"12.68",
-      "unit": "1 勺",
+      "unit": "1 spoon",
       "image":"https://images-na.ssl-images-amazon.com/images/I/61snvtRA5yL._SL1500_.jpg"
     },
-    "绿豆": {
-      "id":"绿豆",
-      "name":"绿豆",
+    "green bean": {
+      "id":"green bean",
+      "name":"green bean",
       "calories" : "65.8",
       "protein": "4.32",
       "fat": "0.16",
       "carbohydrates":"12.4",
-      "unit": "1 勺",
+      "unit": "1 spoon",
       "image":"https://s1.ig.meishij.net/p/20120905/7bbcbbc67ea7370b969d1d659b6c8971.jpg"
     },
-    "草莓": {
-      "id":"草莓",
-      "name":"草莓",
+    "strawberry": {
+      "id":"strawberry",
+      "name":"strawberry",
       "calories" : "10.87",
       "protein": "0.35",
       "fat": "0.07",
       "carbohydrates":"2.5",
-      "unit": "1 颗",
+      "unit": "1 strawberry",
       "image":"https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg"
     },
-    "桃子": {
-      "id":"桃子",
-      "name":"桃子",
+    "peach": {
+      "id":"peach",
+      "name":"peach",
       "calories" : "81.27",
       "protein": "1.35",
       "fat": "0.225",
       "carbohydrates":"22.73",
-      "unit": "1 颗",
+      "unit": "1 peach",
       "image" : "https://image.shutterstock.com/image-photo/peach-isolate-slice-leaf-on-260nw-1550458292.jpg"
     },
-    "苹果": {
-      "id":"苹果",
-      "name":"苹果",
+    "apple": {
+      "id":"apple",
+      "name":"apple",
       "calories" : "84.59",
       "protein": "0.84",
       "fat": "0.42",
       "carbohydrates":"28.77",
-      "unit": "1 颗",
+      "unit": "1 apple",
       "image" : "https://www.applesfromny.com/wp-content/uploads/2020/05/Fortune_NYAS-Apples2.png"
     },
-    "梨": {
-      "id":"梨",
-      "name":"梨",
+    "pear": {
+      "id":"pear",
+      "name":"pear",
       "calories" : "104.55",
       "protein": "0.75",
       "fat": "0.25",
       "carbohydrates":"32.75",
-      "unit": "1 颗",
+      "unit": "1 pear",
       "image" : "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/pears_commodity-page.png"
     },
-    "猕猴桃": {
-      "id":"猕猴桃",
-      "name":"猕猴桃",
+    "kiwi": {
+      "id":"kiwi",
+      "name":"kiwi",
       "calories" : "35.44",
       "protein": "0.56",
       "fat": "0.42",
       "carbohydrates":"10.15",
-      "unit": "1 颗",
+      "unit": "1 kiwi",
       "image" : "https://solidstarts.com/wp-content/uploads/Kiwi_edited-scaled.jpg"
     },
-    "橘子": {
-      "id":"橘子",
-      "name":"橘子",
+    "orange": {
+      "id":"orange",
+      "name":"orange",
       "calories" : "68.64",
       "protein": "1.6",
       "fat": "0.2",
       "carbohydrates":"20.4",
-      "unit": "1 颗",
+      "unit": "1 orange",
       "image" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
     },
-    "葡萄": {
-      "id":"葡萄",
-      "name":"葡萄",
+    "grape": {
+      "id":"grape",
+      "name":"grape",
       "calories" : "3.87",
       "protein": "0.04",
       "fat": "0.03",
       "carbohydrates":"1.03",
-      "unit": "1 颗",
+      "unit": "1 grape",
       "image" : "https://dam.farmjournal.com/m/469f73418ba781e4/webimage-grapes-red-web.png"
     },
-    "柚子": {
-      "id":"柚子",
-      "name":"柚子",
+    "pomelo": {
+      "id":"pomelo",
+      "name":"pomelo",
       "calories" : "347.76",
       "protein": "9.6",
       "fat": "2.4",
       "carbohydrates":"114",
-      "unit": "1 颗",
+      "unit": "1 pomelo",
       "image" : "https://noshingwiththenolands.com/wp-content/uploads/2018/06/pomelo5-Custom.jpg"
     },
 
-    "牛奶": {
-      "id":"牛奶",
-      "name":"牛奶",
+    "milk": {
+      "id":"milk",
+      "name":"milk",
       "calories" : "108",
       "protein": "6",
       "fat": "6.4",
       "carbohydrates":"6.8",
-      "unit": "1 杯",
+      "unit": "1 cup",
       "image" : "https://www.greenqueen.com.hk/wp-content/uploads/2020/01/turtletree-labs.jpg"
     },
-    "鸡胸肉": {
-      "id":"鸡胸肉",
-      "name":"鸡胸肉",
+    "chicken breast": {
+      "id":"chicken breast",
+      "name":"chicken breast",
       "calories" : "141.6",
       "protein": "29.52",
       "fat": "2.28",
       "carbohydrates":"0.72",
-      "unit": "1 块",
+      "unit": "1 chicken breast",
       "image" : "https://www.foodiecrush.com/wp-content/uploads/2018/08/Instant-Pot-Chicken-Breasts-foodiecrush.com-006A-683x1024.jpg"
     },
-    "瘦猪肉": {
-      "id":"瘦猪肉",
-      "name":"瘦猪肉",
+    "Lean pork": {
+      "id":"Lean pork",
+      "name":"Lean pork",
       "calories" : "71.5",
       "protein": "10.15",
       "fat": "3.1",
       "carbohydrates":"0.75",
-      "unit": "1 块（50g）",
+      "unit": "1 piece（50g）",
       "image" : "https://cutpcdnwimages.azureedge.net/images/products/95000/096138-600x600-A.jpg"
     },
-    "瘦牛肉": {
-      "id":"瘦牛肉",
-      "name":"瘦牛肉",
+    "Lean beef": {
+      "id":"Lean beef",
+      "name":"Lean beef",
       "calories" : "53",
       "protein": "10.1",
       "fat": "1.15",
       "carbohydrates":"0.6",
-      "unit": "1 块 (50g)",
+      "unit": "1 piece (50g)",
       "image" : "https://4.bp.blogspot.com/-wQ6rn7OhrPc/Vl7tiQcqQyI/AAAAAAAAASw/4sz_Z0ftriU/s1600/Lean-beef.png"
     },
-    "猪肉": {
-      "id":"猪肉",
-      "name":"猪肉",
+    "pork": {
+      "id":"pork",
+      "name":"pork",
       "calories" : "197.5",
       "protein": "6.6",
       "fat": "18.5",
       "carbohydrates":"1.2",
-      "unit": "1 块 (50g)",
+      "unit": "1 piece (50g)",
       "image" : "https://upload.wikimedia.org/wikipedia/commons/4/49/Schweinebauch-2.jpg"
     },
-    "猪里脊肉": {
-      "id":"猪里脊肉",
-      "name":"猪里脊肉",
+    "Pork tenderloin": {
+      "id":"Pork tenderloin",
+      "name":"Pork tenderloin",
       "calories" : "77.5",
       "protein": "10.1",
       "fat": "3.95",
       "carbohydrates":"0.35",
-      "unit": "1 块 (50g)",
+      "unit": "1 piece (50g)",
       "image" : "https://image.shutterstock.com/image-photo/raw-pork-tenderloin-260nw-57809398.jpg"
     },
-    "玉米": {
-      "id":"玉米",
-      "name":"玉米",
+    "corn": {
+      "id":"corn",
+      "name":"corn",
       "calories" : "147.84",
       "protein": "8",
       "fat": "2.4",
       "carbohydrates":"45.6",
-      "unit": "1 个",
+      "unit": "1 corn",
       "image" : "https://www.jessicagavin.com/wp-content/uploads/2019/05/how-to-cook-corn-on-the-cob-8-1200.jpg"
     },
 
-    "青菜": {
-      "id":"青菜",
-      "name":"青菜",
+    "Lettuce": {
+      "id":"Lettuce",
+      "name":"Lettuce",
       "calories" : "0.55",
       "protein": "0.2",
       "fat": "0.1",
       "carbohydrates":"1.05",
-      "unit": "1 颗",
+      "unit": "1 lettuce",
       "image" : "https://media.newyorker.com/photos/5b6b08d3a676470b4ea9b91f/16:9/w_2465,h_1386,c_limit/Rosner-Lettuce.jpg"
     },
-    "西红柿": {
-      "id":"西红柿",
-      "name":"西红柿",
+    "tomato": {
+      "id":"tomato",
+      "name":"tomato",
       "calories" : "25",
       "protein": "1.53",
       "fat": "0.34",
       "carbohydrates":"5.61",
-      "unit": "1 颗",
+      "unit": "1 tomato",
       "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bright_red_tomato_and_cross_section02.jpg/800px-Bright_red_tomato_and_cross_section02.jpg"
     },
-    "黄瓜": {
-      "id":"黄瓜",
-      "name":"黄瓜",
+    "cucumber": {
+      "id":"cucumber",
+      "name":"cucumber",
       "calories" : "26.4",
       "protein": "1.32",
       "fat": "0.33",
       "carbohydrates":"0.825",
-      "unit": "1 颗",
+      "unit": "1 cucumber",
       "image" : "https://cdn.mos.cms.futurecdn.net/EBEXFvqez44hySrWqNs3CZ.jpg"
     },
-    "西瓜": {
-      "id":"西瓜",
-      "name":"西瓜",
+    "watermelon": {
+      "id":"watermelon",
+      "name":"watermelon",
       "calories" : "521",
       "protein": "15",
       "fat": "9",
       "carbohydrates":"6",
-      "unit": "1 颗",
+      "unit": "1 watermelon",
       "image" : "https://cdn.mos.cms.futurecdn.net/QCRt2ButzyC6FJi8pb6hNi-1200-80.jpg"
     },
-    "披萨": {
-      "id":"披萨",
-      "name":"披萨",
+    "pizza": {
+      "id":"pizza",
+      "name":"pizza",
       "calories" : "470",
       "protein": "33",
       "fat": "13.6",
       "carbohydrates":"54",
-      "unit": "1 块",
+      "unit": "1 piece of pizza",
       "image" : "https://www.biggerbolderbaking.com/wp-content/uploads/2019/07/15-Minute-Pizza-WS-Thumbnail.png"
     },
-    "通心粉": {
-      "id":"通心粉",
-      "name":"通心粉",
+    "Macaroni and cheese": {
+      "id":"Macaroni and cheese",
+      "name":"Macaroni and cheese",
       "calories" : "351",
       "protein": "11.9",
       "fat": "0.1",
@@ -264,34 +264,34 @@
       "unit": "100g",
       "image" : "https://www.inspiredtaste.net/wp-content/uploads/2018/10/Easy-Creamy-Stovetop-Mac-and-Cheese-1200.jpg"
     },
-    "全麦面包": {
-      "id":"全麦面包",
-      "name":"全麦面包",
+    "Whole wheat bread": {
+      "id":"Whole wheat bread",
+      "name":"Whole wheat bread",
       "calories" : "91",
       "protein": "4.428",
       "fat": "1.278",
       "carbohydrates":"15.48",
-      "unit": "1 片",
+      "unit": "1 slice of bread",
       "image" : "https://www.simplyrecipes.com/wp-content/uploads/2018/09/whole-wheat-bread-LEAD-02.jpg"
     },
-    "面包": {
-      "id":"面包",
-      "name":"面包",
+    "bread": {
+      "id":"bread",
+      "name":"bread",
       "calories" : "157",
       "protein": "29.3",
       "fat": "2.55",
       "carbohydrates":"4.15",
-      "unit": "1 片d",
+      "unit": "1 slice of bread",
       "image" : "https://butterwithasideofbread.com/wp-content/uploads/2019/07/White-Bread_10.bsb_.jpg"
     },
-    "汉堡": {
-      "id":"汉堡",
-      "name":"汉堡",
+    "hamburger": {
+      "id":"hamburger",
+      "name":"hamburger",
       "calories" : "354",
       "protein": "16.14",
       "fat": "17",
       "carbohydrates":"34.224",
-      "unit": "1 个",
+      "unit": "1 hamburger",
       "image" : "https://media.npr.org/assets/img/2010/12/28/burger_custom-7230dc09f860d54762a73ae36c259837f22e11b8-s800-c85.jpg"
     }
   },
@@ -299,73 +299,72 @@
   "options" : {
     "normal" : {
       "breakfast" : [
-        "桃子",
-        "牛奶",
-        "全麦面包"
+        "peach",
+        "milk",
+        "Whole wheat bread"
       ],
       "lunch" : [
-        "橘子",
-        "通心粉",
-        "玉米",
-        "猪肉"
+        "orange",
+        "Macaroni and cheese",
+        "corn",
+        "pork"
       ],
       "dinner" : [
-        "鸡胸肉",
-        "瘦牛肉",
-        "面条",
-        "梨"
+        "chicken breast",
+        "Lean beef",
+        "noodle",
+        "pear"
       ]
     },
 
     "lack_vit_d" : {
       "breakfast" : [
-        "桃子",
-        "桃子",
-        "牛奶"
+        "peach",
+        "peach",
+        "milk"
       ],
       "lunch" : [
-        "桃子",
-        "桃子",
-        "牛奶"
+        "peach",
+        "peach",
+        "milk"
       ],
       "dinner" : [
-        "桃子",
-        "牛奶",
-        "桃子"
+        "peach",
+        "milk",
+        "peach"
       ]
     },
 
     "overweight" : {
       "breakfast" : [
-        "牛奶",
-        "米饭"
+        "milk",
+        "rice"
       ],
       "lunch" : [
-        "牛奶",
-        "米饭"
+        "milk",
+        "rice"
       ],
       "dinner" : [
-        "桃子",
-        "米饭",
-        "牛奶"
+        "peach",
+        "rice",
+        "milk"
       ]
     },
 
     "short" : {
       "breakfast" : [
-        "牛奶",
-        "米饭",
-        "桃子"
+        "milk",
+        "rice",
+        "peach"
       ],
       "lunch" : [
-        "牛奶",
-        "米饭",
-        "桃子"
+        "milk",
+        "rice",
+        "peach"
       ],
       "dinner" : [
-        "牛奶",
-        "米饭",
-        "桃子"
+        "rice",
+        "peach"
       ]
     }
   }
