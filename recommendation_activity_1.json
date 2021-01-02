@@ -1,0 +1,105 @@
+{
+  "option" : {
+    "女" : {
+      "normal": [
+        "捉迷藏",
+        "听音乐",
+        "听故事",
+        "捉迷藏",
+        "散步",
+        "练习抬头动作",
+        "练习走路",
+        "抢椅子",
+        "丢手绢"
+      ]
+    },
+    "男" : {
+      "normal": [
+        "捉迷藏",
+        "听音乐",
+        "听故事",
+        "捉迷藏",
+        "散步",
+        "练习抬头动作",
+        "练习走路",
+        "抢椅子",
+        "丢手绢"
+      ]
+    }
+  },
+
+  "activity" : {
+    "睡觉" : {
+      "id" : "睡觉",
+      "name" : "睡觉",
+      "description" : "睡觉",
+      "image" : "https://www.nicepng.com/png/detail/112-1120886_sleep-png-icon-free-sleep-icon-png.png"
+    },
+    "早餐" : {
+      "id" : "早饭",
+      "name" : "早饭",
+      "description" : "详情见推荐菜单或者自由选择",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eat-icon.svg/1087px-Eat-icon.svg.png"
+    },
+    "午餐" : {
+      "id" : "午餐",
+      "name" : "午餐",
+      "description" : "详情见推荐菜单或者自由选择",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eat-icon.svg/1087px-Eat-icon.svg.png"
+    },
+    "晚餐" : {
+      "id" : "晚餐",
+      "name" : "晚餐",
+      "description" : "详情见推荐菜单或者自由选择",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eat-icon.svg/1087px-Eat-icon.svg.png"
+    },
+    "听音乐":{
+      "id":"听音乐",
+      "name":"听音乐",
+      "description":"在网上找五几首儿歌听。",
+      "image":"https://static.thenounproject.com/png/39812-200.png"
+    },
+    "听故事":{
+      "id":"听故事",
+      "name":"听故事",
+      "description":"在网上找一个儿童故事读给孩子。",
+      "image":"https://cdn.iconscout.com/icon/premium/png-512-thumb/children-listening-story-1660309-1409228.png"
+    },
+    "捉迷藏":{
+      "id":"捉迷藏",
+      "name":"捉迷藏",
+      "description":"需要至少两个人参加，一个人当鬼找剩下躲藏起来的人。建议让孩子们在一个限定的范围内玩这个游戏。过小的小孩子不适合玩这个游戏，家长需要时刻注意着孩子的位置。",
+      "image":"https://static.thenounproject.com/png/2200582-200.png"
+    },
+    "散步":{
+      "id":"散步",
+      "name":"散步",
+      "description":"外出散步",
+      "image":"https://image.shutterstock.com/image-vector/man-walk-icon-isolated-minimal-260nw-1396645064.jpg"
+    },
+    "练习抬头动作":{
+      "id":"练习抬头动作",
+      "name":"练习抬头动作",
+      "description":"两个月以上的宝宝会开始练习用颈部肌肉控制头的动作。大人发出声音或使用玩具吸引宝宝的注意使宝宝练习自主抬头。",
+      "image":"https://cdn.iconscout.com/icon/premium/png-512-thumb/baby-746-763895.png"
+    },
+    "练习走路":{
+      "id":"练习走路",
+      "name":"练习走路",
+      "description":"在学会走路之前要先学会站立，可以先扶着孩子慢慢开始练习站立。学会站立之后可以拿玩具在孩子面前逗引，使孩子自主迈步。当孩子学会了站立和迈步之后，家长就可以慢慢尝试松开手让孩子练习走路了",
+      "image":"https://cdn4.iconfinder.com/data/icons/fatherhood-child-rearing/50/29-512.png"
+    },
+    "抢椅子":{
+      "id":"抢椅子",
+      "name":"抢椅子",
+      "description":"这个游戏需要至少六个人一起参加，可以和其他家庭一起进行。首先将比人数少一个数量的椅子摆成一圈。然后放音乐，幼儿及其家长绕着椅子走。音乐一停，参加者就需要找到一个椅子坐下。每一轮会淘汰一个人并且撤下一个椅子。",
+      "image":"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1993765740,1493410561&fm=26&gp=0.jpg"
+    },
+    "丢手绢":{
+      "id":"丢手绢",
+      "name":"丢手绢",
+      "description":"多人围坐一圈，首先选一人拎着手绢，在圈外慢跑。坐着的人一边拍手，一边齐唱《丢手绢》歌谣。丢手绢的人走着走着，乘人不备把手绢丢在其中一个人的身后，然后继续转。如果丢下的手绢被这个人发现，此人就必须拿起手绢赶紧去追，追上了丢手绢的人后，丢手娟绢的人就要站到圈中间为大家表演节目。",
+      "image":"https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.ahtodayedu.com%2Fuserfiles%2Fimage%2F100301%2F05%2F4.jpg&refer=http%3A%2F%2Fwww.ahtodayedu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1612221880&t=9fc4d34162d0b96632967187dcf621ce"
+    }
+  }
+}
